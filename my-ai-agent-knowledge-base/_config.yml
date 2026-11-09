@@ -1,0 +1,9 @@
+title: 我的 AI Agent 實作知識庫
+description: 從 AI Agent 基礎到 LINE 會議助理開發經驗
+baseurl: /ai-agent-knowledge-base
+lang: zh-TW
+markdown: kramdown
+permalink: pretty
+exclude:
+  - AGENTS.md
+  - README.md
